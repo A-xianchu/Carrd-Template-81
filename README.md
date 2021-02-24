@@ -1,5 +1,9 @@
 # Carrd-Template-81 个人主页模板
 
+Demo：[http://github.include.ink/Carrd-Template-81/](http://github.include.ink/Carrd-Template-81/)
+
+***
+
 这个呢，其实是我去扒的Carry的站点
 
 然后扒下来一看！
@@ -67,6 +71,10 @@ Font Awesome官网：[https://fontawesome.com/](https://fontawesome.com/)
 嗯....
 
 算了吧（好麻烦）
+
+***
+
+使用本源码需要一定的HTML基础和CSS基础
 
 ***
 
