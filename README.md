@@ -1,4 +1,4 @@
-# Carrd-Template-81 个人主页模板
+# Carrd-Template-81 个人主页HTML静态模板
 
 Demo：[http://github.include.ink/Carrd-Template-81/](http://github.include.ink/Carrd-Template-81/)
 
